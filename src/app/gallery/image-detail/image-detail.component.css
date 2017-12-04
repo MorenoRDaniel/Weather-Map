@@ -1,0 +1,12 @@
+ol li {
+    background: #FFFFFF;
+    border-left: 4px solid #337ab7!important;
+    height: 100%!important;
+    top: 0!important;
+    border-color: #ddd;
+    color: rgb(51, 122, 183);
+}
+
+.box-shadow{
+  box-shadow: 0px 1px 6px 1px rgba(0,0,0,0.75);
+}
